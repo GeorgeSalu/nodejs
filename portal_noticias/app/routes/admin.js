@@ -4,6 +4,7 @@ module.exports = function(app) {
     });
 
     app.post('/noticias/salvar', function(req, res) {
-        res.render("admin/form_add_noticia");
+        var noticias = req.body;
+        res.send(noticias);
     });
 }
