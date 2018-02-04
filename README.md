@@ -1,22 +1,23 @@
-# nodejs
+# Nodejs 8
+
 Repositorio de Estudo da Plataforma Nodejs
 Aprenda a desenvolver aplicações web com esse curso completo de NodeJS e MongoDB, um curso 100% prático que vai te deixar por dentro de duas das tecnologias mais valorizadas pelo mercado.
 
 # Entendendo as tecnologias:
 
-# O que é NodeJS?
+#### O que é NodeJS?
 
 O NodeJS é uma plataforma de execução de códigos JavaScript que permite ao programador desenvolver aplicações web utilizando o JavaScript como linguagem de back-end. Com NodeJS você poderá criar servidores facilmente escaláveis capazes de responder a milhares de requisições simultâneas sem dar deadlock ou negá-las.
 
-# O que é MongoDB?
+#### O que é MongoDB?
 
 O MongoDB é um banco de dados No-SQL (não relacional) cuja utilização está em ascensão. Trata-se de uma aplicação de código fonte aberto, de alta performance, sem esquemas, orientado a documentos.
 
-# Resumo do curso:
+#### Resumo do curso:
 
 Neste curso você aprenderá a criar aplicações com o NodeJS e o MongoDB, aprenderá a utilizar o framework Express em conjunto com o design pattern MVC, fará uso do gerenciador de pacotes NPM e do engine de views EJS, tudo para criar aplicações profissionais. 
 
-# Aprenda a utilizar os seguintes módulos:
+#### Aprenda a utilizar os seguintes módulos:
 
     - Consign: Para realizar autoload de módulos
     - Body-parser: Para receber parâmetros de formulários trafegados em requests.
@@ -26,7 +27,7 @@ Neste curso você aprenderá a criar aplicações com o NodeJS e o MongoDB, apre
     - Connect-Multiparty: Para upload de arquivos
 
 
-# Aprenda de verdade
+#### Aprenda de verdade
 
 Durante o curso desenvolveremos uma série de projetos reais, a ideia é botar os ensinamentos em prática e ir ganhando confiança nas tecnologias conforme você aprende. Aí vão os projetos que desenvolveremos juntos:
 
