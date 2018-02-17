@@ -33,7 +33,11 @@
 										'<span class="titulo">'+
 											data[i].titulo+
 										'</span>'+
-										'<img src="http://localhost:8080/uploads' + data[i].url_imagem + '" />'+
+										'<img src="http://localhost:8080/imagens/' + data[i].url_imagem + '" />'+
+										'<div class="comentar">'+
+											'<input type="text" class="form-control input_comentario" placeholder="Adicione um Comentário...">'+
+											'<button class="btn btn-default btn_postagem" type="button">Comentar</button>'+
+										'</div>'+
 									'</div>'
 								);
 							}
