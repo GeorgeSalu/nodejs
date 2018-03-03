@@ -153,6 +153,8 @@ app.put('/api/:id', function(req, res){
 
 // DELETE by ID(delete)
 app.delete('/api/:id', function(req, res){
+    res.send(req.params.id);
+    /*
     db.open(function(err, mongoclient){
         mongoclient.collection('postagens', function(err, collection){
             collection.remove(
@@ -168,4 +170,5 @@ app.delete('/api/:id', function(req, res){
             );
         });
     });
+    */
 });
